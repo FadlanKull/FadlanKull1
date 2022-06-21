@@ -1,6 +1,6 @@
 # Warning Jangan Disalah Gunakan
 # Jangan Terlalu Brutal
-# Script Saya Enc Karena Takut Dijual
+# Jangan Dijual
 # StaySafe
 >> Author : MyZenix77,Dkmpostor,Eskey,Binz,Nugraha,Chacha.
 >> Jika Ada Text "Undefined" Jangan Panik/Khawatir Itu Hanya Sebuah Teks Dan Tidak Memengaruhi Apapun Itu Hanya Sebuh Bug Coding
