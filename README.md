@@ -35,7 +35,7 @@ Dan Klik Di Tautan https://hkitkabackend.eastus.cloudapp.azure.com:5010/round/fi
 ## Cara Update
 ```php
 $ cd
-$ cd cracking5
+$ cd stumblezenix
 $ ls ( L kecil )
 $ git pull
 ```
