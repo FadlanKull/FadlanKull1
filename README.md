@@ -27,7 +27,7 @@ Buka stumble guys.
 3. Mainkan game sampai Anda mencapai top 1
 4. Jika Anda Menang Jangan Klaim Hadiah
 5. Pergi ke HTTPCANARY
-Dan Klik Di Tautan https://hkitkabackend.eastus.cloudapp.azure.com:5010/round/finishv2
+Dan Klik Di Tautan https://hkitkabackend.eastus.cloudapp.azure.com:5010/round/finishv2/3
 9. Permintaan Goto
 10. Salin Nilai
 11. Dan Pakai Termux Untuk Menjalankan Script
