@@ -49,7 +49,6 @@ By : ${chalk.bold('xDast#8745')} - Credit : @dkmpostor & @Eskey & Zenix
     if (!result) {
 
       consola.error('Authentication Code Not Valid');
-      break
 
     } else if (result.includes('User')) {
 
