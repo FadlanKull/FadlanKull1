@@ -61,9 +61,8 @@ By : ${chalk.bold('xDast#8745')} - Credit : @dkmpostor & @Eskey & @Fadlan
 (consola.info(` [ ${moment().format('HH:mm:ss')} ] ${chalk.magenta(`User : ${username}`)} ${chalk.red(`Server : ${country}`)} ${chalk.blue(`Trophy : ${trophy}`)} ${chalk.green(`Crown : ${crown}`)}`));
       await sleep(2000);
 
-${chalk.green(` Status : Succes✓`)}\n`));
-await sleep(0);
-console.info(chalk.white(`\rTime : [ ${moment().format('HH:mm:ss')} ] ${chalk.red(`!`)}${chalk.white(`User : ${username}`)} | ${chalk.red(`!`)}${chalk.white(`Trophy : ${trophy}`)} | ${chalk.red(`!`)}${chalk.white(`Crown : ${crown}`)}
+
+(console.info(chalk.white(`\rTime : [ ${moment().format('HH:mm:ss')} ] ${chalk.red(`!`)}${chalk.white(`User : ${username}`)} | ${chalk.red(`!`)}${chalk.white(`Trophy : ${trophy}`)} | ${chalk.red(`!`)}${chalk.white(`Crown : ${crown}`)}
 ${chalk.red(` Status : Succes✓`)}\n`));
 await sleep(0);
 console.info(chalk.white(`\rTime : [ ${moment().format('HH:mm:ss')} ] ${chalk.red(`!`)}${chalk.white(`User : ${username}`)} | ${chalk.red(`!`)}${chalk.white(`Trophy : ${trophy}`)} | ${chalk.red(`!`)}${chalk.white(`Crown : ${crown}`)}
