@@ -64,7 +64,7 @@ By : ${chalk.bold('xDast#8745')} - Credit : @dkmpostor & @Eskey & Zenix
 
     } else if (result == 'BANNED') {
       console.log(consola.error(`Your Account has been Banned`));
-     break;
+     break
     }
   }
 
