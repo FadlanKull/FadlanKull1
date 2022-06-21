@@ -30,7 +30,7 @@ Buka stumble guys.
 Dan Klik Di Tautan https://hkitkabackend.eastus.cloudapp.azure.com:5010/round/finishv2
 9. Permintaan Goto
 10. Salin Nilai
-11. Dan Goto Ur Platform Untuk Menjalankan Script
+11. Dan Pakai Termux Untuk Menjalankan Script
 ```
 ## Cara Update
 ```php
