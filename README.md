@@ -20,7 +20,7 @@ $ yarn
 $ node index
 Cara Ambil Cookie
 ``` 
-3. Download Http Injektor
+1. Download Http Injektor
 [Klik Disini](https://www.google.com/amp/s/m.apkpure.com/id/httpcanary-%25E2%2580%2594-http-sniffer-capture-analysis/com.guoshi.httpcanary/amp)
 2. Jalankan HTTPCANARY
 Buka stumble guys.
