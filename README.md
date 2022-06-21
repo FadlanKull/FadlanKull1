@@ -2,7 +2,7 @@
 # Jangan Terlalu Brutal
 # Script Saya Enc Karena Takut Dijual
 # StaySafe
->> Author : MyZenix77,Dkmpostor,Eskey,Binz,Nugraha,Chacha
+>> Author : MyZenix77,Dkmpostor,Eskey,Binz,Nugraha,Chacha.
 >> Jika Ada Text "Undefined" Jangan Panik/Khawatir Itu Hanya Sebuah Teks Dan Tidak Memengaruhi Apapun Itu Hanya Sebuh Bug Coding
 # Pake Dengan Aman Usahakan Jangan Terlalu Brutal 
 Screenshot 
