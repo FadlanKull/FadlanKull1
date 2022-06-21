@@ -59,7 +59,7 @@ By : ${chalk.bold('xDast#8745')} - Credit : @dkmpostor & @Eskey & @Fadlan
       const crown = data.User.Crowns;
 
 (consola.info(` [ ${moment().format('HH:mm:ss')} ] ${chalk.magenta(`User : ${username}`)} ${chalk.red(`Server : ${country}`)} ${chalk.blue(`Trophy : ${trophy}`)} ${chalk.green(`Crown : ${crown}`)}`));
-      await sleep(5500);
+      await sleep(2000);
 
     } else if (result == 'BANNED') {
       console.log(consola.error(`Akun Anda ke band? Gw Party 🤘🤘😎😎 !!`));
