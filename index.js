@@ -37,10 +37,10 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
 ╰╯┃┈┈┈┈┈┈┃╰╯
 ┈┈╰┓┏━━┓┏╯
 ┈┈┈╰╯┈┈╰╯ Trophy And Crown Hack Safe! [ReEdit]
-By : ${chalk.bold('Fdlanxyz#7263')} - Credit : @dkmpostor & @Eskey & @Fadlan
+By : ${chalk.bold('FdlanXyz#7263')} - Credit : @dkmpostor & @Eskey & @Fadlan
 `);
 
-  const auth = rs.question{chalk.bgRed('Tempel Kode Auth deck ! : ')};
+  const auth = rs.question('Tempel Kode Auth deck ! : ');
   consola.warn('');
 
   while (true) {
