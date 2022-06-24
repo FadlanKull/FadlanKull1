@@ -57,7 +57,7 @@ By : ${chalk.bold('FdlanXyz#7263')} - Credit : @dkmpostor & @Eskey & @Fadlan
       const country = data.User.Country;
       const trophy = data.User.SkillRating;
       const crown = data.User.Crowns;
-console.log(chalk.bgBlack(`\r[ ${moment().format('HH:mm:ss')} ] ${chalk.bgYellow(`Nama Anda : ${username}`)} | ${chalk.magenta(`Trophy : ${trophy}`)} | ${chalk.bgGreen(`Mahkota : ${crown}`)}`));
+console.log(chalk.bgBlack(`\r[ ${moment().format('HH:mm:ss')} ] ${chalk.red(`Nama Anda : ${username}`)} | ${chalk.bgMagenta(`Mahkota : ${crown}`)} | ${chalk.green(`Trophy : ${trophy}`)}`));
       await sleep(3000);
 
 
