@@ -57,26 +57,9 @@ By : ${chalk.bold('FdlanXyz#7263')} - Credit : @dkmpostor & @Eskey & @Fadlan
       const country = data.User.Country;
       const trophy = data.User.SkillRating;
       const crown = data.User.Crowns;
-
-console.log(chalk.blue('Fadlan Kull.'));
-console.log('')
-console.log(chalk.green(`Waktu : [ ${moment().format('HH:mm:ss')} ]`),>
-console.log('')
-console.log(chalk.magenta(`Nama Anda : ${username}`))
-console.log('')
-console.log(chalk.yellow(`Trophy : ${trophy}`))
-console.log('')
-console.log(chalk.cyan(`Mahkota : ${crown}`))
-console.log(chalk.red('Status:Done :)'));
-
-
-      await GoStumble(auth);
-      await GoStumble(auth);
-      await GoStumble(auth);
-      await GoStumble(auth);
-      console.log('')
-      console.log('')
+console.log(chalk.bgBlack(`\r[ ${moment().format('HH:mm:ss')} ] ${chalk.bgYellow(`Nama Anda : ${username}`)} | ${chalk.magenta(`Trophy : ${trophy}`)} | ${chalk.bgGreen(`Mahkota : ${crown}`)}`));
       await sleep(3000);
+
 
     } else if (result == 'BANNED') {
       console.log(consola.error(`Akun Anda ke band? Gw Party 🤘🤘😎😎 !!`));
