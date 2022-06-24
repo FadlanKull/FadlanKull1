@@ -37,10 +37,10 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
 ╰╯┃┈┈┈┈┈┈┃╰╯
 ┈┈╰┓┏━━┓┏╯
 ┈┈┈╰╯┈┈╰╯ Trophy And Crown Hack Safe! [ReEdit]
-By : ${chalk.bold('xDast#8745')} - Credit : @dkmpostor & @Eskey & @Fadlan
+By : ${chalk.bold('Fdlanxyz#7263')} - Credit : @dkmpostor & @Eskey & @Fadlan
 `);
 
-  const auth = rs.question('Tempel Kode Auth Anda ! : ');
+  const auth = rs.question{chalk.bgRed('Tempel Kode Auth deck ! : ')};
   consola.warn('');
 
   while (true) {
@@ -48,7 +48,7 @@ By : ${chalk.bold('xDast#8745')} - Credit : @dkmpostor & @Eskey & @Fadlan
     const result = await GoStumble(auth);
     if (!result) {
 
-      consola.error('Authentication Code Not Valid');
+      consola.error('Kode auth sudah expired ');
 
     } else if (result.includes('User')) {
 
@@ -58,7 +58,7 @@ By : ${chalk.bold('xDast#8745')} - Credit : @dkmpostor & @Eskey & @Fadlan
       const trophy = data.User.SkillRating;
       const crown = data.User.Crowns;
 
-(consola.info(` [ ${moment().format('HH:mm:ss')} ] ${chalk.magenta(`User : ${username}`)} ${chalk.red(`Server : ${country}`)} ${chalk.blue(`Trophy : ${trophy}`)} ${chalk.green(`Crown : ${crown}`)}`));
+(consola.info(` [ ${moment().format('HH:mm:ss')} ] ${chalk.bgMagenta(`Nama Anda : ${username}`)} ${chalk.red(`Negara : ${country}`)} ${chalk.blue(`Trophy : ${trophy}`)} ${chalk.bgGreen(`Crown : ${crown}`)}`));
       await sleep(2000);
 
     } else if (result == 'BANNED') {
