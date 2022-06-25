@@ -64,7 +64,8 @@ console.log('')
 console.log(chalk.green(`Trophy : ${trophy}`));
 console.log('')
 console.log(chalk.bgMagenta(`Mahkota : ${crown}`));
-console.log(chalk.red('Status Bot : Done😎🧐));
+
+console.log(chalk.red('Status Bot : Done😎🧐'));
       await sleep(6500);
 
 
