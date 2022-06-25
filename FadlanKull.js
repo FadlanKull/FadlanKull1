@@ -60,18 +60,19 @@ By : ${chalk.bold('FdlanXyz#7263')} - Credit : @dkmpostor & @Eskey & @Fadlan
 
 console.log(chalk.red('FadlanKull'));
 console.log('')
-console.log(chalk.green(`Waktu : [ ${moment().format('HH:mm:ss')} ]`));
+console.log(chalk.yellow(`Waktu : [ ${moment().format('HH:mm:ss')} ]`));
 console.log('')
 console.log(chalk.bgRed(`Nama anda : ${username}`));
 console.log('')
-console.log(chalk.yellow(`Trophy : ${trophy}`));
+console.log(chalk.green(`Trophy : ${trophy}`));
 console.log('')
-console.log(chalk.blue(`Mahkota : ${crown}`));
+console.log(chalk.bgMagenta(`Mahkota : ${crown}`));
+console.log(chalk.red('Status Bot : Done😎🧐));
       await sleep(3000);
 
 
     } else if (result == 'BANNED') {
-      console.log(consola.error(`Akun Anda ke band? Gw Party 🤘🤘😎😎 !!`));
+      console.log(consola.error(`Your Account Has Been Banded !!`));
      break
     }
   }
