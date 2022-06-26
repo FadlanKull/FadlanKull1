@@ -55,7 +55,7 @@ By : ${chalk.bold('FdlanXyz#7263')} - Credit : @dkmpostor & @Eskey & @Fadlan
       const trophy = data.User.SkillRating;
       const crown = data.User.Crowns;
 
-console.log(chalk.red('FadlanKull'));
+console.log(chalk.bgRed('FadlanXyz#7263'));
 console.log('')
 console.log(chalk.yellow(`Waktu : [ ${moment().format('HH:mm:ss')} ]`));
 console.log('')
@@ -65,8 +65,8 @@ console.log(chalk.green(`Trophy : ${trophy}`));
 console.log('')
 console.log(chalk.bgMagenta(`Mahkota : ${crown}`));
 
-console.log(chalk.red('Status Bot : Done😎🧐'));
-      await sleep(6500);
+console.log(chalk.bgGreen('Status Bot : Done😎😏'));
+      await sleep(5000);
 
 
     } else if (result == 'BANNED') {
