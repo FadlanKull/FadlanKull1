@@ -74,7 +74,7 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
 ░██╔██╗░░░╚██╔╝░░██╔══╝░░██████████╗░░░██╔╝░██╔══╝░░██╔══██╗░╚═══██╗
 ██╔╝╚██╗░░░██║░░░███████╗╚██╔═██╔══╝░░██╔╝░░███████╗╚█████╔╝██████╔╝
 ╚═╝░░╚═╝░░░╚═╝░░░╚══════╝░╚═╝░╚═╝░░░░░╚═╝░░░╚══════╝░╚════╝░╚═════╝░ Trophy And Crown Hack Safe! [ReEdit]
-By : ${chalk.bold('FdlanXyz#7263')} - Credit : @dkmpostor & @Eskey & @Fadlan
+By : ${chalk.bgBold('FdlanXyz#7263')} - Credit : @dkmpostor & @Eskey & @FadlanXyz#7263
 `);
 
   const auth = rs.question('Tempel Kode Auth deck ! : ');
@@ -105,8 +105,8 @@ console.log(chalk.green(`Trophy : ${trophy}`));
 console.log('')
 console.log(chalk.bgMagenta(`Mahkota : ${crown}`));
 
-console.log(chalk.bgGreen('Status Bot : Done😎😏'));
-      await sleep(5000);
+console.log(chalk.green('Status Bot : Done😎😏'));
+      await sleep(5500);
 
 
     } else if (result == 'BANNED') {
