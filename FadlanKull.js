@@ -74,7 +74,7 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
 ░██╔██╗░░░╚██╔╝░░██╔══╝░░██████████╗░░░██╔╝░██╔══╝░░██╔══██╗░╚═══██╗
 ██╔╝╚██╗░░░██║░░░███████╗╚██╔═██╔══╝░░██╔╝░░███████╗╚█████╔╝██████╔╝
 ╚═╝░░╚═╝░░░╚═╝░░░╚══════╝░╚═╝░╚═╝░░░░░╚═╝░░░╚══════╝░╚════╝░╚═════╝░ Trophy And Crown Hack Safe! [ReEdit]
-By : ${chalk.bgBold('FdlanXyz#7263')} - Credit : @dkmpostor & @Eskey & @FadlanXyz#7263
+By : ${chalk.bold('FdlanXyz#7263')} - Credit : @dkmpostor & @Eskey & @FadlanXyz#7263
 `);
 
   const auth = rs.question('Tempel Kode Auth deck ! : ');
